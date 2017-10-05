@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="submit">Add</string>
+    <string name="urgent">Urgent?</string>
+    <string name="instructions">Enter your to do item</string>
+    <string name="done">Done!</string>
+</resources>
